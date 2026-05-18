@@ -1,8 +1,8 @@
-<img width="740" height="1354" alt="modular-1" src="https://github.com/user-attachments/assets/b2afa085-2d20-4504-a38f-0bd63a8be248" /><img width="1536" height="1024" alt="archi" src="https://github.com/user-attachments/assets/33f86871-9d7c-4423-a63a-69b262ebf713" />
+
 # only-pictures
 picture gallery
 <img width="1728" height="886" alt="image" src="https://github.com/user-attachments/assets/4c524549-011c-4517-8cfe-ea2a08dc2042" />
-
+<img width="1536" height="1024" alt="archi" src="https://github.com/user-attachments/assets/33f86871-9d7c-4423-a63a-69b262ebf713" />
 
 # Gemma
 <img width="3440" height="1748" alt="twin-2" src="https://github.com/user-attachments/assets/184ad45a-d29c-417d-acdd-61e6f05ece3d" />
@@ -19,3 +19,4 @@ picture gallery
 <img width="818" height="1506" alt="command-2" src="https://github.com/user-attachments/assets/911acee6-8f3b-4994-b67b-0794bf4730f8" />
 <img width="1826" height="1474" alt="plancompare" src="https://github.com/user-attachments/assets/12e1310d-6a77-4e90-963c-55da7580abdf" />
 <img width="810" height="1572" alt="command-1" src="https://github.com/user-attachments/assets/2e3bf761-53a6-483d-8312-869b35981227" />
+<img width="740" height="1354" alt="modular-1" src="https://github.com/user-attachments/assets/b2afa085-2d20-4504-a38f-0bd63a8be248" />
