@@ -25,3 +25,12 @@ picture gallery
 
 # instructions:
 <img width="839" height="553" alt="image" src="https://github.com/user-attachments/assets/2935b19e-66cc-4c0d-a7f0-d9b5be11fdef" />
+<img width="720" height="455" alt="image" src="https://github.com/user-attachments/assets/dfe5fb14-053a-400c-8ad4-5eb07df549db" />
+<img width="839" height="553" alt="image" src="https://github.com/user-attachments/assets/516198ca-579d-4d56-8ff0-7930386a5f82" />
+<img width="580" height="385" alt="image" src="https://github.com/user-attachments/assets/c66cb4a3-3061-4d7d-858f-949e2651680e" />
+<img width="1713" height="875" alt="thermal" src="https://github.com/user-attachments/assets/4c42830f-ea90-4363-89d3-eb8ee86953a0" />
+<img width="1723" height="904" alt="image" src="https://github.com/user-attachments/assets/0923b2ae-a030-4279-bec5-55b61ed9aeca" />
+<img width="1691" height="943" alt="image" src="https://github.com/user-attachments/assets/02c5a7e3-18e2-4706-a735-4fff2144bc6b" />
+<img width="826" height="227" alt="image" src="https://github.com/user-attachments/assets/2edbbaeb-9529-4d80-80af-0e2c6608924b" />
+
+
