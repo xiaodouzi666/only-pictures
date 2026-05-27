@@ -36,3 +36,7 @@ picture gallery
 
 # Reddit
 <img width="1221" height="415" alt="123" src="https://github.com/user-attachments/assets/ef6924b8-5e4b-40b8-81bc-a5f80ef84486" />
+<img width="839" height="654" alt="image" src="https://github.com/user-attachments/assets/b13e597b-df37-4f40-942f-0ee702430421" />
+<img width="889" height="663" alt="image" src="https://github.com/user-attachments/assets/1dab61ac-b6d3-43c9-bbb3-136e3e8ff7f7" />
+
+
