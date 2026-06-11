@@ -40,3 +40,8 @@ picture gallery
 <img width="889" height="663" alt="image" src="https://github.com/user-attachments/assets/1dab61ac-b6d3-43c9-bbb3-136e3e8ff7f7" />
 
 
+# rapid
+<img width="1440" height="960" alt="01-command-center-dashboard" src="https://github.com/user-attachments/assets/0d6ce84b-c4bc-4033-8824-824323337ad1" />
+<img width="500" height="900" alt="02-action-queue-approval" src="https://github.com/user-attachments/assets/fc98659e-e3e3-4e8b-960b-674abd507585" />
+<img width="500" height="1500" alt="03-tool-trace-and-evidence" src="https://github.com/user-attachments/assets/2a3554f9-bef4-4f80-9911-f714599f649a" />
+<img width="1440" height="960" alt="04-docs-architecture" src="https://github.com/user-attachments/assets/355c9541-fbc2-424a-bf67-9a6ca01f7989" />
