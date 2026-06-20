@@ -49,3 +49,7 @@ picture gallery
 # findevil
 <img width="1672" height="941" alt="architecture" src="https://github.com/user-attachments/assets/9b4e3713-a4d8-41c8-bb9d-dad953807de7" />
 
+
+# Novus
+<img width="3426" height="1780" alt="WX20260620-023241@2x" src="https://github.com/user-attachments/assets/40c459a7-73e2-4dba-a806-ed48b46f1f07" />
+
